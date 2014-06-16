@@ -1,0 +1,62 @@
+git help git
+git help <command>
+
+recorded with commit.
+git config --global user.name "rkazak"
+git config --global user.email "rohinton.kazak@gmail.com"
+
+make a new folder.
+add some files.
+
+git init <project-name>
+git init gitproject
+
+cd into the project folder.
+
+git status
+
+git add . ( all files in directory/project folder )
+git add <file>
+
+git rm --cached <file> - to remove from staging area.
+
+git commit -m "commit message."
+
+git log
+
+git diff
+
+git diff --cached ( staging area ).
+
+git log --oneline  ( commit summary with messages ).
+
+git commit -a -m "some message"
+
+git status -s
+
+
+remote repository
+ |   |       ^
+pull fetch   |
+ |   |       |
+ |   |       |
+ |   |      push
+ |   V       |
+ +>local repository
+ |   |       ^
+ |   |       |commit
+ |   |       |
+ |   |     index (cache)
+ |   |           ^
+ |   |           |
+ V   V checkout  |add
+ working directory
+
+git init <project>      - project directory is now repository
+git add  .              - add all files to staging area
+git commit -m "message" - snapshot
+git status              - status of files
+git log                 - commit history
+git diff                - view differences
+git diff --cached       - differences in staging
+
