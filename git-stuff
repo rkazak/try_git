@@ -60,3 +60,20 @@ git log                 - commit history
 git diff                - view differences
 git diff --cached       - differences in staging
 
+---
+1. create SSH key
+   using RSA public/private cryptography
+2. HTTPS or SSH, github prefers SSH
+
+ssh-keygen -t rsa -C "rohinton.kazak@gmail.com"
+ssh -T git@github.com
+
+---
+git remote add origin git@github.com:project/yoe.com.com.git   ( add a remote repository )
+git push origin master
+keyphrase -
+git add .
+git commit -m "more changes.."
+git log
+git push origin master
+
