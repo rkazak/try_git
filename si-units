@@ -1,0 +1,57 @@
+Byte
+Kilo    byte
+mega    byte
+giga    byte
+tera    byte
+peta    byte
+exa     byte
+zetta   byte
+yotta   byte
+bronto  byte
+geo     byte
+sagan   byte
+Pija    byte
+alpha   byte
+krya    byte
+amos    byte
+pectrol byte
+
+**********************************
+8 bits            = 1 byte
+1024 bytes        = 1 kilo byte
+1024 kilo bytes   = 1 mega byte
+1024 mega bytes   = 1 giga bytes
+1024 gigabytes    = 1 tera byte
+1024 tera bytes   = 1 peta byte
+1024 peta bytes   = 1 exa byte
+1024 exa bytes    = 1 zetta bytes
+1024 zetta bytes  = 1 yotta byte
+1024 yotta bytes  = 1 bronto bytes
+1024 bronto bytes = 1 geobyte
+1024 geo bytes    = 1 sagan byte
+1024 sagan butes  = 1 pija byte
+1024 pija bytes   = 1 alpha byte
+1024 alpha bytes  = 1 krya byte
+1024 amos bytes   = 1 pectrol byte
+
+*********************************
+
+8 bits            = 1 byte           // Reached **storage**
+1024 bytes        = 1 kilo    byte   // Reached **storage**
+1024 kilo bytes   = 1 mega    byte   // Reached **storage**
+1024 mega bytes   = 1 giga    byte   // Reached **storage**
+1024 gigabytes    = 1 tera    byte   // Reahced **storage**
+1024 tera bytes   = 1 peta    byte   // Reached **storage** // Avatar used 1.2 peta bytes
+1024 peta bytes   = 1 exa     byte   // Reached
+1024 exa bytes    = 1 zetta   byte 
+1024 zetta bytes  = 1 yotta   byte
+1024 yotta bytes  = 1 bronto  byte
+1024 bronto bytes = 1 geo     byte
+1024 geo bytes    = 1 sagan   byte
+1024 sagan butes  = 1 pija    byte
+1024 pija bytes   = 1 alpha   byte
+1024 alpha bytes  = 1 krya    byte
+1024 amos byte    = 1 pectrol byte
+
+This is the current list.
+

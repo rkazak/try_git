@@ -1,0 +1,29 @@
+Key-Value
+	BerkleyDB
+	LevelDB
+	Memcached
+	Voldermort
+	Redis
+	Riak
+
+Document
+	CouchDB
+	MonogoDB
+	OrientDB
+	RavenDB
+	Terrastore
+
+Column-Family
+	Amazon SimpleDB
+	Cassandra
+	HBase
+	HyperTable
+
+Graph
+	FlockDB
+	HyperGraphDB
+	Infinite Graph
+	Neo4J
+	OrientDB
+
+
